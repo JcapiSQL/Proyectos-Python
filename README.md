@@ -24,5 +24,5 @@ $ python main.py
 ```
 
 ## Licencia
-[MIT](LICENSE)
+Juan Nicolas Capitan (LICENSE)
 """
